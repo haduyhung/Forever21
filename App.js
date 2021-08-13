@@ -43,7 +43,7 @@ export default function App() {
         <View style={styles.searchcontainer}>
           <TextInput style={styles.tiSearch} placeholder="Search" placeholderTextColor="black">
           </TextInput>
-          <Text style={styles.specialoffers}>All Special Offers(2)</Text>
+          <Text style={styles.specialoffers}>All Special Offers(3)</Text>
         </View>
       </View>
       <View style={styles.down}>
